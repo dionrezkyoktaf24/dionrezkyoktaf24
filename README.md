@@ -1,102 +1,116 @@
-![](https://komarev.com/ghpvc/?username=dionrezkyoktaf24&style=for-the-badge&color=22c55e)
+<p align="center">
+
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
+
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Dion Rezky Oktavino
+</h1>
+
+<h3 align="center">
+
+Full Stack Developer • Software Engineering Student • Indonesia 🇮🇩
+
+</h3>
 
 <p align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Banner"/>
+Building modern web applications with scalable backend architecture and beautiful user experiences.
 
 </p>
-<div align="center">
 
-# 👋 Hi, I'm Dion Rezky Oktavino
+<p align="center">
 
-### Full Stack Developer • Software Engineering Student • 🇮🇩 Indonesia
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-Building modern web applications with clean architecture, scalable backend systems, and intuitive user experiences.
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+%7C+NestJS+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
+<p align="center">
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;NestJS+Developer;Building+Modern+Web+Applications"/>
+
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨🏻‍💻 About Me
 
-```ts
+```typescript
 const dion = {
-  role: "Full Stack Developer",
-  location: "Indonesia",
-  education: "Software Engineering Student",
 
-  frontend: [
-    "Next.js",
-    "React",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
+name: "Dion Rezky Oktavino",
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "NestJS"
-  ],
+role: "Full Stack Developer",
 
-  database: [
-    "MySQL",
-    "Prisma ORM"
-  ],
+location: "Indonesia",
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman",
-    "Figma"
-  ],
+frontend: [
+"Next.js",
+"React",
+"TypeScript",
+"Tailwind CSS"
+],
 
-  currentlyLearning: [
-    "System Design",
-    "Backend Architecture",
-    "Cloud Deployment"
-  ]
+backend: [
+"NestJS",
+"Express",
+"Node.js"
+],
+
+database: [
+"MySQL",
+"Prisma"
+],
+
+tools: [
+"Git",
+"GitHub",
+"Postman",
+"VS Code",
+"Figma"
+],
+
+currentlyLearning: [
+"System Design",
+"Cloud Deployment",
+"Software Architecture"
+]
+
 }
 ```
 
-I enjoy transforming ideas into real digital products with clean code, responsive interfaces, and scalable backend systems.
-
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
-
-</p>
-
-### Backend
+## Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind"/>
 
 </p>
 
-### Database
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+
+</p>
+
+## Database
 
 <p>
 
@@ -104,7 +118,7 @@ I enjoy transforming ideas into real digital products with clean code, responsiv
 
 </p>
 
-### Tools
+## Tools
 
 <p>
 
@@ -114,47 +128,33 @@ I enjoy transforming ideas into real digital products with clean code, responsiv
 
 ---
 
-# 🌱 Current Focus
+# 🚀 Featured Projects
 
-- 🚀 Building production-ready full stack applications
-- 🏗 Learning scalable backend architecture
-- ☁️ Exploring cloud deployment & VPS
-- 📖 Improving software engineering best practices
-- 🤝 Contributing to open source in the future
+### 🍈 Melon Commerce
 
----
+Modern Agriculture Marketplace
 
-# 📦 Featured Projects
-
-## 🍈 Melon Commerce
-
-Modern e-commerce platform for melon sales with responsive UI, interactive shopping experience, and clean dashboard design.
-
-**Tech Stack**
-
-Next.js • Tailwind CSS • Prisma • MySQL
+> Next.js • Prisma • MySQL
 
 ---
 
-## 🎟 Ventix
+### 🎟 Ventix
 
-Modern event ticket booking platform designed for concerts, seminars, workshops, webinars, and community events.
+Modern Event Ticket Platform
 
-**Tech Stack**
-
-Next.js • Tailwind CSS • NestJS • MySQL
+> Next.js • Tailwind • NestJS
 
 ---
 
-## 📝 Notes App
+### 📚 Bookshelf API
 
-Responsive Notes Application consuming REST API with reusable Web Components.
+REST API
 
 ---
 
-## 📚 Bookshelf API
+### 📝 Notes App
 
-RESTful API built with Node.js for managing digital book collections.
+REST API Consumer
 
 ---
 
@@ -168,8 +168,6 @@ RESTful API built with Node.js for managing digital book collections.
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=dionrezkyoktaf24&theme=github-dark-blue&hide_border=true"/>
@@ -178,7 +176,7 @@ RESTful API built with Node.js for managing digital book collections.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -192,29 +190,14 @@ RESTful API built with Node.js for managing digital book collections.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dionrezkyoktaf24&theme=algolia&margin-w=10&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dionrezkyoktaf24&theme=algolia&no-frame=true"/>
 
 </p>
-
----
-
-# 🎯 Goals
-
-- Build meaningful software that solves real-world problems.
-- Continuously improve as a Full Stack Developer.
-- Learn modern software architecture and cloud technologies.
-- Collaborate on impactful projects.
 
 ---
 
 <div align="center">
 
-### 💡 "Great software is built one commit at a time."
-
-⭐ Thanks for visiting my profile!
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/dionrezkyoktaf24/dionrezkyoktaf24/output/github-contribution-grid-snake-dark.svg">
-</p>
+### ⭐ Building software with passion, consistency, and continuous learning.
 
 </div>
