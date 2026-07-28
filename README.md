@@ -200,4 +200,10 @@ REST API Consumer
 
 ### ⭐ Building software with passion, consistency, and continuous learning.
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dionrezkyoktaf24/dionrezkyoktaf24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
 </div>
