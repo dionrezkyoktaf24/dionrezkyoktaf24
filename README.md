@@ -18,6 +18,22 @@ Building modern web applications with scalable backend architecture and beautifu
 
 </h3>
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dionrezkyoktaf24&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionrezkyoktaf24&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=dionrezkyoktaf24&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dionrezkyoktaf24&theme=github-dark&hide_border=true"/>
+</p>
+
 
 
 <p align="center">
