@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dionrezkyoktaf24&style=for-the-badge&color=22c55e)
+
 <p align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Banner"/>
