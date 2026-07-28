@@ -211,4 +211,8 @@ RESTful API built with Node.js for managing digital book collections.
 
 ⭐ Thanks for visiting my profile!
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/dionrezkyoktaf24/dionrezkyoktaf24/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 </div>
