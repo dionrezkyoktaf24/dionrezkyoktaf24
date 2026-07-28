@@ -10,13 +10,15 @@ Hi 👋 I'm Dion Rezky Oktavino
 
 Full Stack Developer • Software Engineering Student • Indonesia 🇮🇩
 
-</h3>
-
 <p align="center">
 
 Building modern web applications with scalable backend architecture and beautiful user experiences.
 
 </p>
+
+</h3>
+
+
 
 <p align="center">
 
