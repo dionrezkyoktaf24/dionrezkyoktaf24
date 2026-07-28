@@ -1,7 +1,5 @@
 <p align="center">
-
-<img src="./assets/banner.png" width="100%" alt="Banner"/>
-
+  <img src="./assets/banner.png" width="95%" alt="Banner">
 </p>
 
 <h1 align="center">
